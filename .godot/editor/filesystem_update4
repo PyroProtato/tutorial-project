@@ -1,0 +1,16 @@
+res://addons/godot_super-wakatime/api_key_prompt.tscn
+res://Test.tscn
+res://addons/godot_super-wakatime/godot_super-wakatime.gd
+res://scenes/game.tscn
+res://scenes/player.tscn
+res://scripts/player.gd
+res://scenes/platform.tscn
+res://scenes/coin.tscn
+res://scripts/coin.gd
+res://scripts/killzone.gd
+res://scenes/killzone.tscn
+res://scenes/slime.tscn
+res://scenes/killzone.gd
+res://scripts/slime.gd
+res://scripts/game_manager.gd
+res://default_bus_layout.tres
