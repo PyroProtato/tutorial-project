@@ -1,8 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1751243876
+::res://::1751331530
+export_presets.cfg::TextFile::-1::1751330677::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D/CompressedTexture2D::7988042580459883837::1751141161::1751141173::1::::<><><>0<>0<>7bcc2a9026c955870d7b1d5a72a6cfff<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile/TextFile::-1::1751141381::0::1::::<><><>0<>0<><>::
+default_bus_layout.tres::AudioBusLayout::4615821096162840981::1751327728::0::1::::<><><>0<>0<><>::
 Test.tscn::PackedScene/PackedScene::8099162704508995467::1751141770::0::1::::<><><>0<>0<><>::uid://dl2p5ny6e7gs8::::res://icon.svg
+Tutorial Project.apple-touch-icon.png::CompressedTexture2D::5426676132974014400::1751330678::1751331617::1::::<><><>0<>0<>c1dc069a3537e08ce0a29c3607bedbe5<>res://.godot/imported/Tutorial Project.apple-touch-icon.png-0b8a58dda1b8356e5eea15c31f81e43f.ctex::
+Tutorial Project.icon.png::CompressedTexture2D::5999897709663838635::1751330678::1751331617::1::::<><><>0<>0<>30093e606751e2936c3f15d1f633ac64<>res://.godot/imported/Tutorial Project.icon.png-348574611450ffb34048dac7cc9147f8.ctex::
+Tutorial Project.png::CompressedTexture2D::8048822301057590581::1751330678::1751331617::1::::<><><>0<>0<>d5e33a70ea81f8cac814c706a74c5a2c<>res://.godot/imported/Tutorial Project.png-ddf076c9483ab1ab69cbf01bb2ce6fbf.ctex::
 ::res://addons/::1751141498
 ::res://addons/godot_super-wakatime/::1751142209
 api_key_prompt.tscn::PackedScene/PackedScene::3919262858641749045::1751141558::0::1::::<><><>0<>0<><>::
@@ -17,8 +22,8 @@ utils.gd::GDScript/GDScript::2511086427225313400::1751141381::0::1::::<>RefCount
 ::res://assets/fonts/::1751142468
 PixelOperator8-Bold.ttf::FontFile/FontFile::4249949617629575006::1751142346::1751142347::1::::<><><>0<>0<>6949d080450def793b9aef579f41b7e6<>res://.godot/imported/PixelOperator8-Bold.ttf-74faf550739674ad3170f08e646e0614.fontdata::
 PixelOperator8.ttf::FontFile/FontFile::2258974433369512373::1751142346::1751142347::1::::<><><>0<>0<>f9e4bc23cb24e4f0feea3d7004ff8cc5<>res://.godot/imported/PixelOperator8.ttf-6f9f01766aff16f52046b880ffb8d367.fontdata::
-::res://assets/music/::1751142468
-time_for_adventure.mp3::AudioStreamMP3/AudioStreamMP3::1452362985672624721::1751142346::1751142347::1::::<><><>0<>0<>96ca4f0f2a7080af3f0714a6cc5d45b3<>res://.godot/imported/time_for_adventure.mp3-b8a49ae1cfc83b211be9d82e6e985655.mp3str::
+::res://assets/music/::1751327688
+time_for_adventure.mp3::AudioStreamMP3/AudioStreamMP3::1452362985672624721::1751142346::1751327688::1::::<><><>0<>0<>4ad16b06120d212f5c878db8d5a68315<>res://.godot/imported/time_for_adventure.mp3-b8a49ae1cfc83b211be9d82e6e985655.mp3str::
 ::res://assets/sounds/::1751142468
 coin.wav::AudioStreamWAV/AudioStreamWAV::1988295509306247096::1751142346::1751142347::1::::<><><>0<>0<>695e0421c23bc903e233c3919128e4b8<>res://.godot/imported/coin.wav-9081ee1c6d81d9c34d08bc916297b892.sample::
 explosion.wav::AudioStreamWAV/AudioStreamWAV::3005310066745410771::1751142346::1751142347::1::::<><><>0<>0<>db8e355a090e24def34f4ab089acba87<>res://.godot/imported/explosion.wav-52e05e8d4b6600106c8dde082c90f915.sample::
@@ -35,19 +40,23 @@ platforms.png::CompressedTexture2D/CompressedTexture2D::4764666218851162675::175
 slime_green.png::CompressedTexture2D/CompressedTexture2D::970090813849654047::1751142347::1751142347::1::::<><><>0<>0<>53b9cb1882a6a698c87f962b38f675d9<>res://.godot/imported/slime_green.png-f6349164bf3a0f5189bb927b97af9c58.ctex::
 slime_purple.png::CompressedTexture2D/CompressedTexture2D::9059816970720534130::1751142347::1751142347::1::::<><><>0<>0<>56b29876d90a48c93eb7f72cf13a9729<>res://.godot/imported/slime_purple.png-26dc5ddef235ce6a400e78e0d532b050.ctex::
 world_tileset.png::CompressedTexture2D/CompressedTexture2D::1667441067195555302::1751142347::1751142347::1::::<><><>0<>0<>e0070ec9f342af3b762341941e40cb0f<>res://.godot/imported/world_tileset.png-61a32465f33c3d9d3bfecb75b6485009.ctex::
+::res://godot-tutorial-game/::1751331229
+README.md::TextFile::-1::1751330988::0::1::::<><><>0<>0<><>::
 ::res://images/::1751141498
 godotwaka2.png::CompressedTexture2D/CompressedTexture2D::1671655479222914689::1751141382::1751141382::1::::<><><>0<>0<>67bead864837ffae312fe9fabdfcd193<>res://.godot/imported/godotwaka2.png-7d3d010fb4adc0d433467ab1cc4754ed.ctex::
 godotwaka.png::CompressedTexture2D/CompressedTexture2D::1057354868728685101::1751141382::1751141382::1::::<><><>0<>0<>9810ca1d1f52d5d9219aba7bf8905276<>res://.godot/imported/godotwaka.png-ef0518417b4f997d237759e5551dd05d.ctex::
 icon.jpg::CompressedTexture2D/CompressedTexture2D::4276390476436341975::1751141382::1751141382::1::::<><><>0<>0<>bc7bc68e62563b01711b10e246c405ea<>res://.godot/imported/icon.jpg-64f68b30ea939aa8019167e67dffb2db.ctex::
-::res://scenes/::1751244249
-coin.tscn::PackedScene/PackedScene::4561547947332240921::1751151392::0::1::::<><><>0<>0<><>::uid://qwbqx51pb67g::::res://scripts/coin.gd<>uid://2g2ku7woa37y::::res://assets/sprites/coin.png
-game.tscn::PackedScene::2832033827646744382::1751244195::0::1::::<><><>0<>0<><>::uid://dnpi2yqk07bpx::::res://scenes/player.tscn<>uid://x0yrmo6w463k::::res://assets/sprites/world_tileset.png<>uid://jdn0871r77sm::::res://scenes/platform.tscn<>uid://b58wa7wa5ixtx::::res://scenes/coin.tscn<>uid://cjw3dk8qij4jc::::res://scenes/killzone.tscn<>uid://b1x8ng23yggvm::::res://scenes/slime.tscn
-killzone.tscn::PackedScene::5451663280847076528::1751244005::0::1::::<><><>0<>0<><>::uid://begh2h0rxu07a::::res://scripts/killzone.gd
+::res://scenes/::1751329641
+coin.tscn::PackedScene::4561547947332240921::1751329641::0::1::::<><><>0<>0<><>::uid://qwbqx51pb67g::::res://scripts/coin.gd<>uid://2g2ku7woa37y::::res://assets/sprites/coin.png<>uid://3le63v7l6op1::::res://assets/sounds/coin.wav
+game.tscn::PackedScene::2832033827646744382::1751329640::0::1::::<><><>0<>0<><>::uid://bg5lsronrdjc3::::res://scripts/game_manager.gd<>uid://dnpi2yqk07bpx::::res://scenes/player.tscn<>uid://x0yrmo6w463k::::res://assets/sprites/world_tileset.png<>uid://jdn0871r77sm::::res://scenes/platform.tscn<>uid://b58wa7wa5ixtx::::res://scenes/coin.tscn<>uid://cjw3dk8qij4jc::::res://scenes/killzone.tscn<>uid://b1x8ng23yggvm::::res://scenes/slime.tscn<>uid://7gi8jt18g3s8::::res://assets/fonts/PixelOperator8.ttf
+killzone.tscn::PackedScene::5451663280847076528::1751329641::0::1::::<><><>0<>0<><>::uid://begh2h0rxu07a::::res://scripts/killzone.gd
 platform.tscn::PackedScene/PackedScene::638728475667687360::1751144389::0::1::::<><><>0<>0<><>::uid://b85bmed2fig8j::::res://assets/sprites/platforms.png
-player.tscn::PackedScene/PackedScene::8103217922828480873::1751151361::0::1::::<><><>0<>0<><>::uid://dv56v88havw2q::::res://assets/sprites/knight.png<>uid://ba8mm0cvhvhav::::res://scripts/player.gd
-slime.gd::GDScript::2740885322158578441::1751244249::0::1::::<>Node2D<><>0<>0<><>::
-slime.tscn::PackedScene::4260838540861702366::1751244024::0::1::::<><><>0<>0<><>::uid://n26ivuealdut::::res://assets/sprites/slime_green.png<>uid://cjw3dk8qij4jc::::res://scenes/killzone.tscn
-::res://scripts/::1751244005
-coin.gd::GDScript/GDScript::1168528354075706106::1751151387::0::1::::<>Area2D<><>0<>0<><>::
-killzone.gd::GDScript::2680035967241902100::1751244005::0::1::::<>Area2D<><>0<>0<><>::
-player.gd::GDScript/GDScript::2455296500154824169::1751151793::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.tscn::PackedScene::8103217922828480873::1751329641::0::1::::<><><>0<>0<><>::uid://dv56v88havw2q::::res://assets/sprites/knight.png<>uid://ba8mm0cvhvhav::::res://scripts/player.gd
+music.tscn::PackedScene::6572035414344491083::1751327748::0::1::::<><><>0<>0<><>::uid://uxshal0jscrh::::res://assets/music/time_for_adventure.mp3
+slime.tscn::PackedScene::4260838540861702366::1751329641::0::1::::<><><>0<>0<><>::uid://bfbx8l2wq6nob::::res://scripts/slime.gd<>uid://n26ivuealdut::::res://assets/sprites/slime_green.png<>uid://cjw3dk8qij4jc::::res://scenes/killzone.tscn
+::res://scripts/::1751329638
+coin.gd::GDScript::1168528354075706106::1751329638::0::1::::<>Area2D<><>0<>0<><>::
+killzone.gd::GDScript::2680035967241902100::1751245057::0::1::::<>Area2D<><>0<>0<><>::
+player.gd::GDScript::2455296500154824169::1751327185::0::1::::<>CharacterBody2D<><>0<>0<><>::
+game_manager.gd::GDScript::2870186024491528780::1751326238::0::1::::<>Node<><>0<>0<><>::
+slime.gd::GDScript::2740885322158578441::1751244817::0::1::::<>Node2D<><>0<>0<><>::
