@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://btsjxbca0ofrr"]
+
+[ext_resource type="FontFile" uid="uid://b1sybw71tcstq" path="res://assets/fonts/PixelOperator8-Bold.ttf" id="1_ahhtf"]
+[ext_resource type="Script" uid="uid://c8wc3dh6a0e7c" path="res://scripts/coin_text.gd" id="2_oo0fn"]
+
+[node name="HUD" type="CanvasLayer"]
+layer = 4
+
+[node name="CoinText" type="Label" parent="."]
+offset_left = 25.0
+offset_top = 25.0
+offset_right = 249.0
+offset_bottom = 57.0
+theme_override_colors/font_color = Color(0.811765, 0.811765, 0.290196, 1)
+theme_override_fonts/font = ExtResource("1_ahhtf")
+theme_override_font_sizes/font_size = 24
+text = "Coins: 0"
+script = ExtResource("2_oo0fn")

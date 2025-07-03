@@ -1,0 +1,33 @@
+[gd_scene load_steps=3 format=3 uid="uid://kuk1bji7jwgr"]
+
+[ext_resource type="Texture2D" uid="uid://d13k6365ubw83" path="res://assets/sprites/sign_bg2.png" id="1_qidi0"]
+[ext_resource type="FontFile" uid="uid://b1sybw71tcstq" path="res://assets/fonts/PixelOperator8-Bold.ttf" id="2_qidi0"]
+
+[node name="SignHUD" type="Node2D"]
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+offset_left = 575.0
+offset_top = 250.0
+offset_right = 615.0
+offset_bottom = 317.0
+
+[node name="SignBackground" type="Sprite2D" parent="CenterContainer"]
+visible = false
+scale = Vector2(4, 4.152)
+texture = ExtResource("1_qidi0")
+region_rect = Rect2(0, 0, 200, 112)
+
+[node name="SignText" type="Label" parent="."]
+visible = false
+offset_left = 256.0
+offset_top = 56.0
+offset_right = 905.0
+offset_bottom = 451.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_fonts/font = ExtResource("2_qidi0")
+theme_override_font_sizes/font_size = 32
+text = "This is a sign!"
+horizontal_alignment = 1
+vertical_alignment = 1
+autowrap_mode = 3
+text_overrun_behavior = 2

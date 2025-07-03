@@ -14,3 +14,11 @@ res://scenes/killzone.gd
 res://scripts/slime.gd
 res://scripts/game_manager.gd
 res://default_bus_layout.tres
+res://scenes/score_label.gd
+res://scenes/ui.tscn
+res://sign.gd
+res://scenes/sign.tscn
+res://scenes/hud.tscn
+res://scenes/sign_hud.tscn
+res://scenes/coin_text.gd
+res://scenes/blue_platform.tscn

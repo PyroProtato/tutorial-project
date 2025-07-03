@@ -1,0 +1,12 @@
+[gd_scene format=3 uid="uid://b5w6b45vefqtl"]
+
+[node name="UI" type="CanvasLayer"]
+layer = 3
+follow_viewport_enabled = true
+
+[node name="Label" type="Label" parent="."]
+offset_left = 12.0
+offset_top = 9.0
+offset_right = 57.0
+offset_bottom = 32.0
+text = "Hello!"
